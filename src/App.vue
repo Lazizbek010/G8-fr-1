@@ -1,10 +1,11 @@
 <template>
   <div>
-      <h1 class="text-center text-red-500 bg-blue-400">SALOM VUE</h1>
+      <Header />
   </div>
 </template>
 
 <script setup>
+import Header from './components/Header.vue'
 
 </script>
 
