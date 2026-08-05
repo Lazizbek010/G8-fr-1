@@ -1,8 +1,6 @@
 <template>
   <div>
-    <section class="choose">
-      
-    </section>
+    Navbar
   </div>
 </template>
 
