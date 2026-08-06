@@ -17,7 +17,7 @@
         <router-link to="/contact" class="transition hover:text-sky-300">Contacts</router-link>
       </nav>
 
-      <button class="rounded-md border border-white/20 bg-white/10 px-4 py-2 text-sm font-medium transition hover:bg-white/20">
+      <button class="rounded-md border border-white bg-white px-4 py-2 text-sm font-medium transition hover:bg-white/20">
         Login
       </button>
     </div>
