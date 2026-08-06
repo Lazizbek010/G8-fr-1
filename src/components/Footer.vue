@@ -1,0 +1,177 @@
+<template>
+  <footer class="bg-[#0b3446] text-gray-200">
+    <div class="max-w-7xl mx-auto px-6 py-12 border-b border-gray-700/40">
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div c>
+          <h4 class="text-white font-semibold mb-4">Contact Us</h4>
+          <ul class="space-y-3 text-sm text-gray-300">
+<svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M9 3.86914C7.15739 3.86914 5.65829 5.36824 5.65829 7.21085C5.65829 9.05346 7.15739 10.5526 9 10.5526C10.8426 10.5526 12.3417 9.05346 12.3417 7.21085C12.3417 5.36824 10.8426 3.86914 9 3.86914ZM9 9.14553C7.93322 9.14553 7.06532 8.27763 7.06532 7.21085C7.06532 6.14407 7.93322 5.27616 9 5.27616C10.0668 5.27616 10.9347 6.14407 10.9347 7.21085C10.9347 8.27763 10.0668 9.14553 9 9.14553Z" fill="white"/>
+<path d="M9.00014 0C5.02393 0 1.78906 3.2349 1.78906 7.21107V7.41041C1.78906 9.42135 2.94198 11.7647 5.21588 14.3753C6.86429 16.2679 8.48967 17.5875 8.55801 17.6427L9.00014 18L9.44226 17.6428C9.51064 17.5875 11.136 16.2679 12.7844 14.3754C15.0583 11.7647 16.2112 9.42138 16.2112 7.41045V7.21111C16.2112 3.2349 12.9763 0 9.00014 0ZM14.8042 7.41045C14.8042 10.8088 10.4254 14.9226 9.00014 16.1715C7.57444 14.9222 3.19609 10.8086 3.19609 7.41045V7.21111C3.19609 4.01077 5.79979 1.40706 9.00014 1.40706C12.2005 1.40706 14.8042 4.01077 14.8042 7.21111V7.41045Z" fill="white"/>
+</svg>
+
+              <span>329 Queensberry Street, North Melbourne VIC 3051,
+                Australia.</span>
+            <li class="flex items-center gap-3">
+              <svg
+                class="w-5 h-5 text-blue-300"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="1.5"
+                  d="M3 5h2l2 7 4 4 6-6 1-5H3z"
+                ></path>
+              </svg>
+              <span>123 456 7890</span>
+            </li>
+            <li class="flex items-center gap-3">
+              <svg
+                class="w-5 h-5 text-blue-300"
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="1.5"
+                  d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"
+                ></path>
+              </svg>
+              <span>support@houzing.com</span>
+            </li>
+          </ul>
+
+          <div class="mt-5 flex items-center gap-3">
+            <a
+              aria-label="facebook"
+              class="w-9 h-9 flex items-center justify-center bg-[#102d3b] rounded hover:bg-blue-700 transition"
+            >
+              <svg
+                class="w-4 h-4 text-white"
+                viewBox="0 0 24 24"
+                fill="currentColor"
+              >
+                <path
+                  d="M22 12c0-5.523-4.477-10-10-10S2 6.477 2 12c0 4.991 3.657 9.128 8.438 9.876v-6.99H7.898v-2.886h2.54V9.797c0-2.506 1.492-3.89 3.777-3.89 1.094 0 2.238.195 2.238.195v2.46h-1.26c-1.243 0-1.63.772-1.63 1.562v1.875h2.773l-.443 2.886h-2.33v6.99C18.343 21.128 22 16.991 22 12z"
+                />
+              </svg>
+            </a>
+            <a
+              aria-label="twitter"
+              class="w-9 h-9 flex items-center justify-center bg-[#102d3b] rounded hover:bg-blue-500 transition"
+            >
+              <svg
+                class="w-4 h-4 text-white"
+                viewBox="0 0 24 24"
+                fill="currentColor"
+              >
+                <path
+                  d="M22.46 6c-.77.35-1.6.58-2.46.69a4.28 4.28 0 001.88-2.37 8.56 8.56 0 01-2.71 1.04 4.27 4.27 0 00-7.28 3.89A12.12 12.12 0 013 4.79a4.27 4.27 0 001.32 5.7 4.22 4.22 0 01-1.93-.53v.05a4.27 4.27 0 003.43 4.18 4.3 4.3 0 01-1.92.07 4.27 4.27 0 003.99 2.96A8.57 8.57 0 012 19.54 12.09 12.09 0 008.29 21c7.55 0 11.68-6.26 11.68-11.68 0-.18-.01-.35-.02-.53A8.36 8.36 0 0022.46 6z"
+                />
+              </svg>
+            </a>
+            <a
+              aria-label="instagram"
+              class="w-9 h-9 flex items-center justify-center bg-[#102d3b] rounded hover:bg-pink-500 transition"
+            >
+<svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M6.15234 2.98047C4.40234 2.98047 3.00781 4.40234 3.00781 6.125C3.00781 7.875 4.40234 9.26953 6.15234 9.26953C7.875 9.26953 9.29688 7.875 9.29688 6.125C9.29688 4.40234 7.875 2.98047 6.15234 2.98047ZM6.15234 8.17578C5.03125 8.17578 4.10156 7.27344 4.10156 6.125C4.10156 5.00391 5.00391 4.10156 6.15234 4.10156C7.27344 4.10156 8.17578 5.00391 8.17578 6.125C8.17578 7.27344 7.27344 8.17578 6.15234 8.17578ZM10.1445 2.87109C10.1445 2.46094 9.81641 2.13281 9.40625 2.13281C8.99609 2.13281 8.66797 2.46094 8.66797 2.87109C8.66797 3.28125 8.99609 3.60938 9.40625 3.60938C9.81641 3.60938 10.1445 3.28125 10.1445 2.87109ZM12.2227 3.60938C12.168 2.625 11.9492 1.75 11.2383 1.03906C10.5273 0.328125 9.65234 0.109375 8.66797 0.0546875C7.65625 0 4.62109 0 3.60938 0.0546875C2.625 0.109375 1.77734 0.328125 1.03906 1.03906C0.328125 1.75 0.109375 2.625 0.0546875 3.60938C0 4.62109 0 7.65625 0.0546875 8.66797C0.109375 9.65234 0.328125 10.5 1.03906 11.2383C1.77734 11.9492 2.625 12.168 3.60938 12.2227C4.62109 12.2773 7.65625 12.2773 8.66797 12.2227C9.65234 12.168 10.5273 11.9492 11.2383 11.2383C11.9492 10.5 12.168 9.65234 12.2227 8.66797C12.2773 7.65625 12.2773 4.62109 12.2227 3.60938ZM10.9102 9.73438C10.7188 10.2812 10.2812 10.6914 9.76172 10.9102C8.94141 11.2383 7.02734 11.1562 6.15234 11.1562C5.25 11.1562 3.33594 11.2383 2.54297 10.9102C1.99609 10.6914 1.58594 10.2812 1.36719 9.73438C1.03906 8.94141 1.12109 7.02734 1.12109 6.125C1.12109 5.25 1.03906 3.33594 1.36719 2.51562C1.58594 1.99609 1.99609 1.58594 2.54297 1.36719C3.33594 1.03906 5.25 1.12109 6.15234 1.12109C7.02734 1.12109 8.94141 1.03906 9.76172 1.36719C10.2812 1.55859 10.6914 1.99609 10.9102 2.51562C11.2383 3.33594 11.1562 5.25 11.1562 6.125C11.1562 7.02734 11.2383 8.94141 10.9102 9.73438Z" fill="white"/>
+</svg>
+
+            </a>
+            <a
+              aria-label="linkedin"
+              class="w-9 h-9 flex items-center justify-center bg-[#102d3b] rounded hover:bg-blue-800 transition"
+            >
+            <svg width="13" height="13" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M2.73438 12.2227V4.04688H0.191406V12.2227H2.73438ZM1.44922 2.95312C2.26953 2.95312 2.92578 2.26953 2.92578 1.44922C2.92578 0.65625 2.26953 0 1.44922 0C0.65625 0 0 0.65625 0 1.44922C0 2.26953 0.65625 2.95312 1.44922 2.95312ZM12.2227 12.2227H12.25V7.73828C12.25 5.55078 11.7578 3.85547 9.1875 3.85547C7.95703 3.85547 7.13672 4.53906 6.78125 5.16797H6.75391V4.04688H4.32031V12.2227H6.86328V8.17578C6.86328 7.10938 7.05469 6.09766 8.36719 6.09766C9.67969 6.09766 9.70703 7.30078 9.70703 8.25781V12.2227H12.2227Z" fill="white"/>
+</svg>
+
+            </a>
+          </div>
+        </div>
+
+        <div>
+          <h4 class="text-white font-semibold mb-4">Discover</h4>
+          <ul class="space-y-2 text-sm text-gray-300">
+            <li>Chicago</li>
+            <li>Los Angeles</li>
+            <li>Miami</li>
+            <li>New York</li>
+          </ul>
+        </div>
+
+        <div>
+          <h4 class="text-white font-semibold mb-4">Lists by Category</h4>
+          <ul class="space-y-2 text-sm text-gray-300">
+            <li>Apartments</li>
+            <li>Condos</li>
+            <li>Houses</li>
+            <li>Offices</li>
+            <li>Retail</li>
+            <li>Villas</li>
+          </ul>
+        </div>
+
+        <div>
+          <h4 class="text-white font-semibold mb-4">Quick Links</h4>
+          <ul class="space-y-2 text-sm text-gray-300">
+            <li>About Us</li>
+            <li>Terms & Conditions</li>
+            <li>Support Center</li>
+            <li>Contact Us</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="bg-[#072634]">
+      <div
+        class="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between text-sm text-gray-400"
+      >
+        <div class="flex items-center gap-3">
+          <svg
+            width="31"
+            height="36"
+            viewBox="0 0 31 36"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M7.32205 17.7038V10.4231L15.1946 5.96333C17.8217 7.44993 20.443 8.93653 23.0672 10.4231V21.6982H8.94887H1.63392C1.36661 21.1001 1.09356 20.5106 0.872243 19.8984C-0.036018 17.385 -0.234341 14.6827 0.274401 12.0846C0.826255 9.25247 2.22026 6.55289 4.45068 4.36671C7.41977 1.45557 11.3086 0 15.1946 0C19.0863 0 22.9752 1.45557 25.9385 4.36671C28.9047 7.28068 30.3879 11.0973 30.3879 14.9111C30.3879 18.7278 28.9047 22.5473 25.9385 25.4556L15.1946 36L4.45068 25.4584C3.99655 25.0127 3.56541 24.5331 3.17164 24.0339H6.35918L15.1946 32.708L24.2628 23.8082C26.7634 21.354 28.0166 18.1298 28.0166 14.9111C28.0166 11.6925 26.7634 8.47109 24.2628 6.0141C21.7594 3.5543 18.4741 2.32722 15.1946 2.32722C11.9151 2.32722 8.6327 3.55712 6.12924 6.01128C4.24373 7.86178 3.07104 10.1354 2.60541 12.5162C2.15703 14.7955 2.35823 17.1678 3.20038 19.3625H20.693V11.7602C18.8564 10.7193 17.0255 9.68124 15.1946 8.64316L9.69905 11.7602V17.7094H7.32205V17.7038Z"
+              fill="white"
+            />
+          </svg>
+          <span class="text-white font-semibold">Houzing</span>
+        </div>
+
+        <div class="text-center flex-1">
+          <span>Copyright © 2021 CreativeLayers. All Right Reserved.</span>
+        </div>
+
+        <button
+          class="w-8 h-8 bg-[#007bff] rounded flex items-center justify-center text-white hover:opacity-90"
+        >
+          <svg
+            class="w-4 h-4"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            stroke-width="2"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+          >
+            <polyline points="6 15 12 9 18 15" />
+          </svg>
+        </button>
+      </div>
+    </div>
+  </footer>
+</template>
+
+<script setup></script>
