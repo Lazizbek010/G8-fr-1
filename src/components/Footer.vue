@@ -2,7 +2,7 @@
   <footer class="bg-[#0b3446] text-gray-200">
     <div class="max-w-7xl mx-auto px-6 py-12 border-b border-gray-700/40">
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-        <div c>
+        <div>
           <h4 class="text-white font-semibold mb-4">Contact Us</h4>
           <ul class="space-y-3 text-sm text-gray-300">
             <div class="flex gap-3 mt-2">
