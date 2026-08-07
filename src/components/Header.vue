@@ -22,7 +22,7 @@
     </div>
   </header>
   <header>
-        <div class="mx-auto max-w-6xl px-4 pb-8 lg:px-8">
+        <div class="mx-auto max-w-6xl px-4 pb-0 lg:px-8">
       <form class="rounded-[32px]  border-white-10 bg-white-5 p-4 backdrop-blur-sm md:flex md:items-center md:gap-3">
         <div class="flex flex-1 items-center gap-3 rounded-4xl border border-white-10 bg-transparent px-4 py-3">
           <svg width="20" height="15" viewBox="0 0 20 15" fill="none" xmlns="http://www.w3.org/2000/svg">
