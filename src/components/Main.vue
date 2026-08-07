@@ -136,7 +136,6 @@
   <div>
     <section class="py-16 bg-gray-50/50">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      
       <div class="text-center mb-12">
         <h2 class="text-3xl font-bold text-slate-800 tracking-tight">Recommended</h2>
         <p class="mt-2 text-sm text-slate-500">
