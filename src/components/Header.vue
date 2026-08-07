@@ -66,6 +66,7 @@
       </form>
     </div>
   </header>
+  <hr>
 </template>
 
 <script setup>
