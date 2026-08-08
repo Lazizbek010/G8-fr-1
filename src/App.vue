@@ -2,6 +2,7 @@
   <div class="min-h-screen flex flex-col">
     <Header />
     <Main class="flex-grow" />
+    
     <Footer />
   </div>
 </template>
