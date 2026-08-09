@@ -10,7 +10,7 @@
         <span class="text-lg font-semibold tracking-wide">Houzing</span>
       </div>
 
-      <nav class="hidden items-center gap-20 text-sm md:flex">
+      <nav class="hidden items-center gap-8 text-sm md:flex">
         <router-link to="/" class="transition hover:text-sky-300">Home</router-link>
         <router-link to="/properties" class="transition hover:text-sky-300">Properties</router-link>
         <router-link to="/contact" class="transition hover:text-sky-300">Contacts</router-link>
