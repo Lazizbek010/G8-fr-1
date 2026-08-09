@@ -10,15 +10,26 @@
         <span class="text-lg font-semibold tracking-wide">Houzing</span>
       </div>
 
-      <nav class="hidden items-center gap-8 text-sm md:flex">
+      <nav class="hidden items-center gap-20 text-sm md:flex">
         <router-link to="/" class="transition hover:text-sky-300">Home</router-link>
         <router-link to="/properties" class="transition hover:text-sky-300">Properties</router-link>
         <router-link to="/contact" class="transition hover:text-sky-300">Contacts</router-link>
       </nav>
 
-      <button class="rounded-md border border-white bg-white/10 px-4 py-2 text-sm font-medium transition hover:bg-white/20">
-        Login
-      </button>
+      <div class="flex items-center gap-3">
+        <router-link
+          to="/register"
+          class="rounded-md border border-white bg-white/10 px-4 py-2 text-sm font-medium transition hover:bg-white/20"
+        >
+          Registration
+        </router-link>
+        <router-link
+          to="/login"
+          class="rounded-md border border-white bg-white/10 px-4 py-2 text-sm font-medium transition hover:bg-white/20"
+        >
+          Login
+        </router-link>
+      </div>
     </div>
   </header>
   <header>
