@@ -12,8 +12,10 @@
 
       <nav class="hidden items-center gap-8 text-sm md:flex">
         <router-link to="/" class="transition hover:text-sky-300">Home</router-link>
-        <router-link to="/properties" class="transition hover:text-sky-300">Properties</router-link>
+        <router-link to="/about" class="transition hover:text-sky-300">Properties</router-link>
         <router-link to="/contact" class="transition hover:text-sky-300">Favourite</router-link>
+        <router-link to="/products" class="transition hover:text-sky-300">Product view</router-link>
+        <router-link to="/myproprs" class="transition hover:text-sky-300">My Properties</router-link>
       </nav>
 
       <router-link to="/register" class="rounded-md border border-white bg-white/10 px-4 py-2 text-sm font-medium transition hover:bg-white/20">
