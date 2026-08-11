@@ -7,7 +7,7 @@
           Nulla quis curabitur velit volutpat auctor bibendum consectetur sit.
         </p>
       </div>
-
+      
       <div class="flex flex-col sm:flex-row justify-between items-center mb-6 text-sm text-gray-600 gap-4">
         <span class="font-medium">13,474 results</span>
         <div class="flex items-center gap-2">
@@ -19,7 +19,6 @@
           </select>
         </div>
       </div>
-<!-- 1 qotor -->
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         <div 
           v-for="property in properties" 
@@ -98,8 +97,8 @@
           </div>
         </div>
       </div>
-      <!-- 2  qotor -->
-            <div class="flex flex-col sm:flex-row justify-between items-center mb-6 text-sm text-gray-600 gap-4">
+
+      <div class="flex flex-col sm:flex-row justify-between items-center mb-6 text-sm text-gray-600 gap-4">
         <span class="font-medium">13,474 results</span>
         <div class="flex items-center gap-2">
           <span>Sort by:</span>
@@ -187,7 +186,7 @@
           </div>
         </div>
       </div>    
-      <!-- 3  qotor -->
+
         <div class="flex flex-col sm:flex-row justify-between items-center mb-6 text-sm text-gray-600 gap-4">
         <span class="font-medium">13,474 results</span>
         <div class="flex items-center gap-2">
@@ -276,7 +275,7 @@
           </div>
         </div>
       </div>    
-      <!-- 4  qotor -->
+
         <div class="flex flex-col sm:flex-row justify-between items-center mb-6 text-sm text-gray-600 gap-4">
         <span class="font-medium">13,474 results</span>
         <div class="flex items-center gap-2">
@@ -365,7 +364,7 @@
           </div>
         </div>
       </div>    
-      <!-- 5  qotor -->
+
         <div class="flex flex-col sm:flex-row justify-between items-center mb-6 text-sm text-gray-600 gap-4">
         <span class="font-medium">13,474 results</span>
         <div class="flex items-center gap-2">
@@ -454,6 +453,7 @@
           </div>
         </div>
       </div>
+      
     </div>
   </div>
 </template>

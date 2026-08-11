@@ -1,15 +1,10 @@
 <template>
-  <div>
-    <section class="choose">
-      
-    </section>
-  </div>
+  <Main />
 </template>
 
 <script setup>
-
+import Main from '../components/Main.vue'
 </script>
 
-<style lang="scss" scoped>
-
+<style scoped>
 </style>
