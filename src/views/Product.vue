@@ -52,7 +52,7 @@
       <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 items-start mb-16">
         
         <div class="lg:col-span-2 space-y-8">
-          <!-- Description -->
+        
           <div class="bg-white p-6 rounded-2xl shadow-sm border border-gray-100">
             <h2 class="text-xl font-bold mb-3">Description</h2>
             <p class="text-gray-600 text-sm leading-relaxed">
