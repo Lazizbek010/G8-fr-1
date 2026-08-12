@@ -765,7 +765,6 @@
 
 <script setup>
 
-
 const heroBgUrl = 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1920&auto=format&fit=crop';
 import { ref, reactive } from 'vue'
 
