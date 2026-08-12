@@ -5,6 +5,7 @@ import AboutView    from '../views/AboutView.vue'
 import ProductView  from '../views/Product.vue'
 import ContactView  from '../views/ContactView.vue'
 import Myproprs from '../views/Myproprs.vue'
+import Property from '../views/Property.vue'
 import LoginView    from '../views/LoginView.vue'
 import RegisterView from '../views/RegisterView.vue'
 
@@ -39,7 +40,11 @@ const router = createRouter({
       component: Myproprs,
       alias: ['/mypropr', '/myproprs']
     },
-    
+    {
+      path: '/property',
+      name: 'property',
+      component: Property,
+    },
     {
       path: '/login',
       name: 'login',

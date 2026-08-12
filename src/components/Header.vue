@@ -16,6 +16,7 @@
         <router-link to="/contact" class="transition hover:text-sky-300">Favourite</router-link>
         <router-link to="/products" class="transition hover:text-sky-300">Product view</router-link>
         <router-link to="/myproprs" class="transition hover:text-sky-300">My Properties</router-link>
+        <router-link to="/property" class="transition hover:text-sky-300">property</router-link>
       </nav>
 
       <router-link to="/register" class="rounded-md border border-white bg-white/10 px-4 py-2 text-sm font-medium transition hover:bg-white/20">
